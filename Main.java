@@ -16,11 +16,6 @@ public class Main {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-/*        try(Scanner scanner = new Scanner(System.in)) {
-            text = scanner.nextLine();
-            start(text);
-        }*/
     }
     private static void start(String text) {
 
